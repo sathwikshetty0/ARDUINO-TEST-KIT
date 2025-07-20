@@ -63,7 +63,6 @@ void setup() {
 
   displayMainMenu();
 }
-
 // --- MAIN LOOP ---
 void loop() {
   if (millis() - lastButtonPressTime > DEBOUNCE_DELAY) {
