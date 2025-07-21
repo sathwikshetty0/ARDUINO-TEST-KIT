@@ -15,7 +15,6 @@ const int BTN_ULTRASONIC_TEST = 36; // NEW: Button for Ultrasonic Test
 
 // Using Mega's Hardware Serial1 port (Pins 18, 19) for reliable Bluetooth communication
 const int HC05_KEY_PIN = 22;
-
 const int SAFE_SERVO_PIN = 44;      // Safe pin for the normal servo test
 const int SHIELD_SERVO_PIN = 9;       // Pin for the on-shield SERVO 2 port
 
