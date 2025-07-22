@@ -89,7 +89,6 @@ void loop() {
 }
 
 // --- TEST FUNCTIONS ---
-
 // Test 1: Your preferred Bluetooth Test
 void testBluetooth_GetName() {
   if(testServo.attached()) { testServo.detach(); }
