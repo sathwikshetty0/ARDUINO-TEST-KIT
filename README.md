@@ -15,7 +15,6 @@ The Test Kit can perform independent tests for the following components:
 * **Standard Servo Motor:** Sweeps the servo through its full range of motion on a safe, non-conflicting pin.
 * **Adafruit Motor Shield V1:** Drives a DC motor forward and backward to confirm the shield is working.
 * **HC-SR04 Ultrasonic Sensor:** Provides a live feed of the measured distance, which you can use to see the sensor working in real-time.
-
 ## Required Hardware
 
 * **Microcontroller:** 1 x Arduino Mega 2560 (or compatible)
